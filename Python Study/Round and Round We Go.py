@@ -15,6 +15,8 @@
 # 그외에도 일부 코드 가독성 개선
 # 참고 : https://blog.naver.com/jinhan814/222530418259
 # 좋은 코드 감사합니다.
+# 지금 생각해보면 위에 코드도 잘 가동했을 것 같은데
+# 아마 input 문을 while 문으로 묶질 않았다 보니 문제 출제 의도와 달라 오류난듯
 
 import sys
 input = sys.stdin.readline
